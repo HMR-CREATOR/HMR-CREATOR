@@ -22,12 +22,13 @@
 ![WebGL](https://img.shields.io/badge/WebGL_2.0-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
 
+
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" />
 
 </div>
